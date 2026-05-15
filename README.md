@@ -469,6 +469,19 @@ This project is designed for educational and research purposes. It demonstrates 
 It should not be used as the only security control in a production environment. Production systems should still use secure coding practices such as parameterized queries, input validation, least privilege database accounts, safe error handling, and Web Application Firewalls.
 
 \---
+---
+
+## Project Demo
+
+A short demonstration video is available here:
+
+[Watch the Demo Video](https://drive.google.com/file/d/1pt8Lv66SZitmjjLCsO9KR5cHqflbfN5X/view?usp=sharing%20)
+
+LinkedIn project post:
+
+[View on LinkedIn](https://url-shortener.me/F3GW)
+
+---
 
 ## Author
 
