@@ -487,5 +487,5 @@ LinkedIn project post:
 
 **Naira Albattra**
 
-**Email: `naira\\\_albattra@outlook.com`**
+**Email: `naira_albattra@outlook.com`**
 
